@@ -1,3 +1,7 @@
+## Updated to v2.7.8
+
+ * Updated to support devices running Android 6 (SDK 23)
+
 ## INTRO
 
 Global Proxy App for Android System
@@ -19,10 +23,10 @@ here is a list of them:
 
 ## PREREQUISITES
 
-* JDK 1.6+
-* Maven 3.0.5
-* Android SDK r17+
-* Android NDK r8+
+* JDK 1.8+
+* Maven 3.3.9
+* Android SDK 23+
+* Android NDK 17.1+
 
 * Local Maven Dependencies
 
